@@ -3,7 +3,7 @@ import './App.css';
 
 function App() { 
   return (
-    <p>Voyager: Coming soon</p>
+    <p>Voyager: Coming soon.</p>
   );
 }
 
